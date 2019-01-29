@@ -1,5 +1,6 @@
 buildscript {
     repositories {
+        maven { url "https://maven.google.com" }
         jcenter()
         mavenCentral()
     }
@@ -25,6 +26,6 @@ dependencies {
 }
 
 cdvPluginPostBuildExtras.add({
-    apply plugin: 'com.google.gms.google-services'
+    apply plugin: 'com.google.gms.googleservices.GoogleServicesPlugin' // 'com.google.gms.google-services'
     apply plugin: 'io.fabric'
 })
