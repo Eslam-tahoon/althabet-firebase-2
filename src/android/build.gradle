@@ -26,5 +26,5 @@ dependencies {
 }
 
 cdvPluginPostBuildExtras.add({
-    apply plugin: 'io.fabric'
+
 })
