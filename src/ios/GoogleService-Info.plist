@@ -1,40 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0.8">
-  <dict>
-    <key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-    <string>ca-app-pub-3940256099942544/2934735716</string>
-    <key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-    <string>ca-app-pub-3940256099942544/4411468910</string>
-    <key>CLIENT_ID</key>
-    <string>265828617502-3j3regsfjj4dn3qhcs9ib8vff9tgakqm.apps.googleusercontent.com</string>
-    <key>REVERSED_CLIENT_ID</key>
-    <string>com.googleusercontent.apps.265828617502-3j3regsfjj4dn3qhcs9ib8vff9tgakqm</string>
-    <key>API_KEY</key>
-    <string>1:265828617502:ios:9e93ab6762eebfb8</string>
-    <key>GCM_SENDER_ID</key>
-    <string>265828617502</string>
-    <key>PLIST_VERSION</key>
-    <string>1</string>
-    <key>BUNDLE_ID</key>
-    <string>com.bossitalia.gobooking</string>
-    <key>PROJECT_ID</key>
-    <string>gobooking-9b410</string>
-    <key>STORAGE_BUCKET</key>
-    <string>gobooking-9b410.appspot.com</string>
-    <key>IS_ADS_ENABLED</key>
-    <true />
-    <key>IS_ANALYTICS_ENABLED</key>
-    <false />
-    <key>IS_APPINVITE_ENABLED</key>
-    <false />
-    <key>IS_GCM_ENABLED</key>
-    <true />
-    <key>IS_SIGNIN_ENABLED</key>
-    <true />
-    <key>GOOGLE_APP_ID</key>
-    <string>1:265828617502:ios:9e93ab6762eebfb8</string>
-    <key>DATABASE_URL</key>
-    <string>https://gobooking-9b410.firebaseio.com</string>
-  </dict>
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>282781483338-4a7hufu2tia6mc1s5g4212kkv8rrcteq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.282781483338-4a7hufu2tia6mc1s5g4212kkv8rrcteq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>282781483338-j68urhgkbei917k834g0s9praq6uanct.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCapyPgLEnou6wFhYbOkrwgZDjX6VfXljA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>282781483338</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dl.althabet</string>
+	<key>PROJECT_ID</key>
+	<string>althabet-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>althabet-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:282781483338:ios:5c29cf357d1a5534</string>
+	<key>DATABASE_URL</key>
+	<string>https://althabet-app.firebaseio.com</string>
+</dict>
 </plist>
